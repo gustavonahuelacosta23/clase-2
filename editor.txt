@@ -1,1 +1,2 @@
-asd
+practica con vsc y github 
+hola mundo 
